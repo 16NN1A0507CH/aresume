@@ -1,0 +1,46 @@
+{
+  "basics":{
+  "name":"anu",
+  "role":"mean-stuck",
+  "mobile":"9898989898",
+  "email":"annusharani@gmail.com"
+},
+"career":{
+  "info":"to pursuea challenging career and be a pert of progessive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+  {
+  "degree":"B.Tech(computer science and engineering)",
+  "institute":"vignan niruls",
+  "data":["2016-20","85%"]
+},
+{
+"degree":"intermediate(mpc)",
+"institute":"sri chaitanya",
+"data":["2014-16","90%"]
+},
+{
+"degree":"S.S.C",
+"institute":"kennedy high school",
+"data":["2014","90%"]
+}
+],
+"skills":[
+  {
+    "title":"programming language",
+    "content":["python","c","c++","java","R"]
+  },
+    {
+      "title":"Database",
+      "content":["sql","oracle","mysql"]
+    },
+      {
+        "title":"web Technologies",
+        "content":["HTML","XML","css","javaScript"]
+      },
+        {
+          "title":"operating system",
+          "content":["windows","unix","linux"]
+        }
+]
+}
